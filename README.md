@@ -1,8 +1,14 @@
-# React + Vite
+Vitec-tehtava frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Your README should include: 
+•	How to run your application 
+  npm run dev
+•	Technology stack you used 
+  react + vite, tailwind
+•	Any assumptions you made 
+•	Rough time spent 
+•	Anything done using AI assistance
+  Visual Studio Code
+•	Anything not completed (and why)
+  Updateing og User is not work
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
